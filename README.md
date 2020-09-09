@@ -1,1 +1,1 @@
-# Simulador_Electrocardiograma
+# Simulador Electrocardiograma
